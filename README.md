@@ -8,3 +8,9 @@ We respectfully request that you cite our paper when using this analysis code. I
 Franklin, J., Bell, D.M. & Shaw, D.C. (2021). Long-term growth, mortality and regeneration of trees in permanent vegetation plots in the Pacific Northwest, 1910 to present, ver. 16. Environmental Data Initiative.
 
 This paper is currently under review – more detailed instructions for using the data will be added here prior to publication of the paper. Thank you!
+
+Instructions for use of code:
+1. For all analyses, make sure all files included in the zip file are in your R working directory.
+2. For species richness analyses, open "HJA_LaManna_RefStand_Species_Richness_Data.RData" and run the R code: "HJA_LaManna_RefStand_Species_Richness_Analysis_Sept_2021.R".
+3. For survival analyses, begin by opening "HJA_LaManna_RefStand_Survival-Growth_Data_Prep.RData" and run one of the "HJA_LaManna_RefStand_ExpSurvival_Analyses_Sept_2021...R" files.
+4. For growth analyses, begin by opening "HJA_LaManna_RefStand_Survival-Growth_Data_Prep.RData" and run one of the "HJA_LaManna_RefStand_Growth_Analyses_Sept_2021...R" files.
