@@ -11,6 +11,6 @@ This paper is currently under review – more detailed instructions for using th
 
 Instructions for use of code:
 1. For all analyses, make sure all files included in the zip file are in your R working directory.
-2. For species richness analyses, open "HJA_LaManna_RefStand_Species_Richness_Data.RData" and run the R code: "HJA_LaManna_RefStand_Species_Richness_Analysis_Nov_2021.R".
-3. For survival analyses, begin by opening "HJA_LaManna_RefStand_Survival-Growth_Data_Prep.RData" and run one of the "HJA_LaManna_RefStand_ExpSurvival_Analyses_Nov_2021...R" files.
-4. For growth analyses, begin by opening "HJA_LaManna_RefStand_Survival-Growth_Data_Prep.RData" and run one of the "HJA_LaManna_RefStand_Growth_Analyses_Nov_2021...R" files.
+2. For species richness analyses, open "HJA_LaManna_RefStand_Species_Richness_Data.RData" and run the R code: "HJA_LaManna_RefStand_Species_Richness_Analysis_Jan_2022.R".
+3. For survival analyses, begin by opening "HJA_LaManna_RefStand_Survival-Growth_Data_Prep.RData" and run one of the "HJA_LaManna_RefStand_ExpSurvival_Analyses_Jan_2022...R" files.
+4. For growth analyses, begin by opening "HJA_LaManna_RefStand_Survival-Growth_Data_Prep.RData" and run one of the "HJA_LaManna_RefStand_Growth_Analyses_Jan_2022...R" files.
